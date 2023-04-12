@@ -5,7 +5,7 @@ Python汇率转换工具类，数据来源于[themoneyconverter](https://themone
 ## 快速入门
 安装
 ```shell
-pip install themoneyconverter
+pip install the-money-converter
 ```
 
 使用
