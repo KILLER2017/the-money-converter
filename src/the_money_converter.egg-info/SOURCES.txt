@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/the_money_converter.egg-info/PKG-INFO
+src/the_money_converter.egg-info/SOURCES.txt
+src/the_money_converter.egg-info/dependency_links.txt
+src/the_money_converter.egg-info/requires.txt
+src/the_money_converter.egg-info/top_level.txt
+src/themoneyconverter/__init__.py
+src/themoneyconverter/the_money_converter.py
